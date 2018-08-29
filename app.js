@@ -1,2 +1,3 @@
 var name = "Vladimir";
-console.log("hello " + name + " How are you doing?");
+var lastName = " Juárez";
+console.log("hello " + name + lastName + + " How are you doing?");
